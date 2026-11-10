@@ -1,0 +1,27 @@
+{
+  "version": "0.2.2",
+  "notes": [
+    "PROJECTS page: NEW PROJECT always opens a blank project",
+    "With the ADEPT unit connected, a new project asks: SEND PROJECT TO ADEPT or LOAD PROJECT FROM ADEPT",
+    "CONDUCT page: the same colours as the unit. The tab is grey when the ADEPT unit is not connected"
+  ],
+  "windows": {
+    "app": {
+      "file": "ADEPT-Link-Windows-0.2.2.zip",
+      "sha256": "be18e190b3a4f74d4cc19baa409c74b24033cfe9fb4238f482708bad83a2d19d",
+      "size": 8001770
+    },
+    "vst3": {
+      "file": "ADEPT-Link-VST3-Windows-0.2.2.zip",
+      "sha256": "debc8f78129477511cbd9e26893bfc2614c73c58bf37ed0b3b347e9da9ae789e",
+      "size": 7998806
+    }
+  },
+  "mac": {
+    "pkg": {
+      "file": "ADEPT-Link-Installer-0.2.2.pkg",
+      "sha256": "e0b65100e17275aa475aed73add8aae4d5e463cf0b911267f462c8aefbb6d891",
+      "size": 42717808
+    }
+  }
+}
